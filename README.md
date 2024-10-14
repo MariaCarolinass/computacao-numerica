@@ -1,3 +1,3 @@
 # Computação Numérica
 
-Estudos de computação numérica com Python
+Utilizando métodos de computação numérica com Python
