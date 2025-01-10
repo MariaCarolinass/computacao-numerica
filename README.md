@@ -12,4 +12,4 @@ Acesse o [Ambiente Virtual de Aprendizagem para Computação Numérica](https://
 4. Método dos Mínimos Quadrados (MMQ)
 5. Interpolação
 6. Integração
-7. Equações Diferenciais
+7. Equações Diferenciais Ordinária (EDO)
